@@ -1,0 +1,27 @@
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural.
+A ideia é que o usuário controle seus gastos apenas conversando, sem precisar preencher formulários ou planilhas.
+
+# Problema
+Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos atuais exigem muita entrada manual de dados,
+são complexos e pouco personalizados. Isso gera desmotivação e abandono do controle financeiro.
+
+# Público-Alvo
+Pessoas iniciantes em organização financeira, que querem algo simples, prático e sem complicação,
+principalmente quem nunca conseguiu manter um orçamento por muito tempo.
+
+# Funcionalidades-Chave
+1. Registro de gastos e ganhos por conversa (ex: “gastei 50 reais com mercado hoje”).
+2. Classificação automática das transações por categoria.
+3. Definição e acompanhamento de metas financeiras mensais.
+4. Dicas automáticas de economia geradas por um Agente Financeiro.
+5. Relatórios simples, visuais e personalizados com base no comportamento do usuário.
+
+# Entregável da IA
+Quero que a IA gere:
+- Um plano de MVP do aplicativo.
+- Um fluxo conceitual das principais telas.
+- A definição do comportamento e tom de voz do Agente Financeiro.
+- Um plano simples de validação inicial do produto.
+
+Use linguagem acessível, tom educativo e escreva em português.
