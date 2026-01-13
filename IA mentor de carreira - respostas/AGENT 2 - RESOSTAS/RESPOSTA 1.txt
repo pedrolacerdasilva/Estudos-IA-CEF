@@ -1,0 +1,189 @@
+Olá! Recebi suas informações do entrevistador.
+Vejo que você escolheu IA/Gameplay na Unreal e tem 15 a 25 horas por semana para estudar. Perfeito!
+Vou montar agora seu plano completo personalizado — com foco em transição de carreira, aproveitando seu diferencial (dados + visão de sistemas) e te levando a um portfólio forte em 90 dias.
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) IA/Gameplay na Unreal:
+
+Implementar mecânicas de gameplay (habilidades, combate, interação, inventário) em C++ e/ou Blueprints
+Criar e ajustar IA de NPCs (Behavior Trees, Perception, NavMesh, State Machines, EQS quando aplicável)
+Integrar gameplay com animação, UI, efeitos e áudio (trabalhando com anim blueprints, montages, triggers)
+Fazer debug, profiling e otimização (evitar gargalos, reduzir custo de ticks, melhorar navegação/queries)
+Colaborar com designers e artistas (traduzir intenção do design em sistemas robustos; iterar rápido com playtests)
+
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Unreal Gameplay Framework (Actors, Components, Pawns/Character, Controller, GameMode, GameState, UMG, Input)
+C++ para Unreal + Blueprints (UCLASS/UFUNCTION/UPROPERTY, ponte C++↔Blueprint, memória/refs, boas práticas)
+IA na Unreal (Behavior Tree, Blackboard, AIController, NavMesh, Perception, Tasks/Services/Decorators, Debug tools)
+
+NICE-TO-HAVE (complementares):
+
+Noções de matemática de jogos (vetores, rotadores, colisão, interpolação) + arquitetura de sistemas
+Telemetria/Logs + análise (seu diferencial “dados”) para balanceamento e tuning de IA (mesmo em projeto solo)
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Unreal Engine 5 (Editor, Blueprints, C++, AI tools, UMG)
+IDE (Visual Studio ou JetBrains Rider) + Git (ou Perforce, se quiser padrão de estúdio)
+Blender (assets simples/prototipagem) + ferramentas de apoio com IA (para acelerar rascunhos, documentação, etc.)
+
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 15 a 25 horas/semana
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Dominar o básico do Gameplay Framework (Actor/Component, Pawn/Character, Controller, GameMode) com 2 microprojetos:
+
+“Movimento + câmera + interação”
+“Pick up item + UI simples”
+
+
+Criar rotina de versionamento (Git), organização de pastas e “commit hygiene” (mensagens e snapshots úteis)
+
+SEMANA 3-4:
+
+Entrar em C++ para Unreal (macros, classes, componentes, eventos) e fazer 1 feature “C++ primeiro”:
+
+Ex.: “Sistema de vida/dano” + “interface de interação”
+
+
+Introdução prática à IA base:
+
+AIController + NavMesh + MoveTo
+Perception (visão/audição) com debug visual
+
+
+
+
+Extra (se tiver 20–25h): 1 dia/semana só para debugging (breakpoints, logs, visual logger, gameplay debugger)
+
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Construir uma IA completa com Behavior Tree + Blackboard:
+
+Patrulhar → detectar → perseguir → atacar → recuar
+
+
+Criar Tasks/Decorators/Services próprios (ex.: “Escolher alvo”, “Checar linha de visão”, “Trocar estado por HP”)
+
+SEMANA 7-8:
+
+“Dar cara” de jogo: combate/skills + feedback:
+
+ataque básico, cooldown, hit reactions, UI mínima (vida/inimigo)
+
+
+Primeira camada de tuning: parâmetros expostos (Data Assets/Data Tables) para ajustar IA e combate sem recompilar
+
+
+Extra (se tiver 20–25h): adicionar telemetria simples (log de eventos: detecção, acertos, tempo de combate) e analisar em Python/CSV
+
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Montar o projeto de portfólio (escopo fechado) e produzir a “versão 1 jogável”
+Documentar o projeto (README com: objetivos, arquitetura, decisões e como rodar)
+
+SEMANA 11-12:
+
+Polimento + performance:
+
+reduzir ticks desnecessários, otimizar perception/queries, ajustar navmesh/paths
+
+
+Preparação de carreira:
+
+1 vídeo curto (1–2 min) mostrando features
+1 vídeo técnico (3–5 min) explicando Behavior Tree + arquitetura
+Simulações de entrevista + revisão do GitHub/LinkedIn
+
+
+
+
+Extra (se tiver 20–25h): fazer uma “v2” opcional: EQS (se aplicável) ou sistema de “director” que ajusta dificuldade com base em telemetria
+
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: “Dungeon Encounter AI — NPCs Táticos com Behavior Tree”
+O QUE FAZER:
+Criar uma pequena arena/dungeon (1 mapa) onde o jogador enfrenta 2–3 tipos de inimigos com comportamentos táticos distintos (ex.: melee agressivo, ranged que kiteia, support que buffa). A IA deve usar Behavior Tree, percepção e navegação, e o gameplay deve ter combate simples e legível (vida, dano, cooldown).
+ENTREGÁVEIS:
+
+Projeto Unreal (GitHub) com commits organizados + README completo (setup, arquitetura, features)
+Vídeo demo (1–2 min) + vídeo técnico (3–5 min) explicando a IA e decisões
+Documento de design curto (1–2 páginas) com: objetivos, inimigos, árvore de comportamento e parâmetros de tuning
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+A IA deve ter ciclo completo (patrulha → detecta → combate → recua/reativa) com transições confiáveis
+Deve existir variação real de comportamento entre inimigos (não só stats diferentes)
+Sistema de parâmetros (Data Assets/Data Tables) deve permitir tuning rápido sem mexer em lógica central
+
+DICA:
+Use seu diferencial de dados: registre eventos (ex.: tempo até detectar, tempo de combate, dano tomado/causado) e faça um mini-relatório (gráfico simples) mostrando como você ajustou o balanceamento da IA. Isso te destaca muito em transição.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: “Explique o Gameplay Framework da Unreal e como você organiza responsabilidades.”
+COMO RESPONDER:
+Estruture assim:
+
+Visão geral: Actor/Component como base; Pawn/Character como “entidade controlável”; Controller como “cérebro”; GameMode/GameState para regras/estado.
+Decisão prática: “Coloco lógica de movimento e habilidades no Character/Components; decisões e inputs no Controller; regras do modo no GameMode.”
+Exemplo do seu projeto: “Meu inimigo tem um HealthComponent em C++; o AIController dirige Behavior Tree; o Character executa animações/ataques.”
+
+PERGUNTA 2: “Como você implementa uma IA com Behavior Tree? O que vai no Blackboard?”
+COMO RESPONDER:
+
+Defina o objetivo: “quero um ciclo patrulha→combate→fuga.”
+Blackboard = dados: alvo atual, último local visto, estado (alerta/combate), distância, HP%.
+BT = fluxo: selectors para prioridade (combate > perseguir > patrulhar), decorators para condições, services para atualizar percepção, tasks para ações.
+Mostre maturidade: “eu uso o Gameplay Debugger/Visual Logger para validar transições.”
+
+PERGUNTA 3: “Você prefere C++ ou Blueprints? Quando usa cada um?”
+COMO RESPONDER:
+
+“Uso C++ para sistemas base reutilizáveis, performance e APIs claras (components, interfaces, dados).
+Uso Blueprints para iteração rápida, montagem e ajustes visuais.”
+Exemplo: “Health/Damage em C++; VFX/Animação/ajustes de timing em Blueprint; parâmetros em Data Assets.”
+
+PERGUNTA 4: “Conte um bug difícil que você resolveu e como investigou.”
+COMO RESPONDER (modelo STAR):
+
+Situação: IA travava ao perseguir.
+Tarefa: tornar a perseguição confiável.
+Ação: usei Visual Logger + navmesh debug; identifiquei que o alvo saía de área navegável; adicionei fallback para último ponto navegável e validação de path.
+Resultado: perseguição consistente e menos custo de recalcular path.
+
+PERGUNTA 5: “Como você lida com feedback do designer e iteração de gameplay?”
+COMO RESPONDER:
+
+“Transformo feedback em hipóteses testáveis (ex.: inimigo ‘parece injusto’ → reduzir tempo de reação e aumentar telegraph).
+Exponho parâmetros (Data Assets) e faço ajustes rápidos.
+Se possível, apoio com dados/telemetria (tempo de combate, mortes, acurácia), para decidir tuning com menos achismo.”
+
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação C++ Developer (DIO)
+POR QUE ESSA TRILHA:
+Unreal em nível profissional pede conforto com C++, orientação a objetos, debugging e boas práticas. Como você já tem inclinação a dados, essa formação te dá a base “código pesado” necessária para IA/Gameplay na Unreal, e você usa Blueprints como aceleração — não como muleta.
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+Busque por "Formação C++ Developer"
+Inscreva-se gratuitamente
+Siga o cronograma junto com este roadmap
+
+
+Se não encontrar com esse nome exato, procure por “C++” e escolha a Formação/Bootcamp mais completo e recente focado em fundamentos + OOP + debugging.
+
+
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica — por exemplo, como montar Behavior Trees, o que estudar de C++ para Unreal, ou como criar telemetria simples no seu projeto para usar seu diferencial de dados.

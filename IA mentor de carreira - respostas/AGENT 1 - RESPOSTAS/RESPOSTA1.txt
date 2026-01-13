@@ -1,0 +1,61 @@
+════════════════════════════════════════════════════════════
+🥇 1º LUGAR: Game Analytics / Cientista de Dados para Jogos — 18/20
+════════════════════════════════════════════════════════════
+💡 POR QUE COMBINA COM VOCÊ:
+Você já tem experiência com datamining, prefere dados no dia a dia e ainda traz um diferencial raríssimo: entende design de RPG (TTRPG) e já criou jogos (mesmo que pessoais). Isso te coloca numa posição excelente para atuar onde dados + sistemas de jogo se encontram: balanceamento, progressão, economia, retenção, funil de onboarding, A/B tests e telemetria de gameplay.
+⚖️ O QUE ESPERAR:
+VANTAGENS:
+
+Você aproveita quase tudo do que já faz com dados e só “vira a chave” para o contexto de jogos.
+Seu repertório de sistemas de RPG ajuda muito a interpretar números com visão de design (não só estatística).
+
+DESAFIOS:
+
+Precisará aprender bem o “idioma” do mercado de jogos: métricas, telemetria, eventos, economia, segmentação.
+Nem toda empresa tem maturidade de dados; pode exigir evangelização e comunicação clara.
+
+📈 MERCADO:
+A demanda existe e tende a ser forte onde há produto digital e jogos como serviço, mas varia por região, senioridade e tamanho do estúdio. Em geral, é uma ponte excelente entre dados e games.
+
+════════════════════════════════════════════════════════════
+🥈 2º LUGAR: Engenheiro(a) de Machine Learning / IA Aplicada (com foco em LLMs) — 16/20
+════════════════════════════════════════════════════════════
+💡 POR QUE COMBINA COM VOCÊ:
+Você demonstrou interesse direto em inteligência artificial e LLMs, e sua base em datamining é uma vantagem real para entrar na parte aplicada: modelos, pipelines, avaliação, experimentação e melhoria contínua. Em jogos (ou produtos digitais), isso pode se traduzir em recomendações, detecção de comportamento, personalização, moderação, geração de conteúdo e até NPCs mais expressivos (quando fizer sentido).
+⚖️ O QUE ESPERAR:
+VANTAGENS:
+
+Área muito expansiva: abre portas dentro e fora de jogos (produto, automação, plataformas).
+Seu histórico com dados acelera o ramp-up em modelagem e métricas.
+
+DESAFIOS:
+
+Pode exigir mais profundidade em engenharia (deploy, MLOps, custos, latência, qualidade).
+LLMs pedem cuidado com avaliação, segurança, confiabilidade e alinhamento com o produto.
+
+📈 MERCADO:
+É um caminho com alta demanda geral, mas depende bastante do nível técnico esperado e da maturidade da empresa com IA. Varia por região e experiência, e a competição pode ser maior.
+
+════════════════════════════════════════════════════════════
+🥉 3º LUGAR: Programador(a) de IA/Gameplay na Unreal Engine (C++/Blueprints) — 14/20
+════════════════════════════════════════════════════════════
+💡 POR QUE COMBINA COM VOCÊ:
+Você quer criar jogos e se interessa por Unreal Engine e por entender sistemas. Essa carreira é perfeita para quem curte construir mecânicas, comportamentos, inimigos/NPCs, árvores de comportamento, navegação, estados, habilidades, e integrar isso ao design do jogo.
+⚖️ O QUE ESPERAR:
+VANTAGENS:
+
+Você estará “no coração” da criação do jogo, vendo sistemas ganharem vida.
+Unreal é um ecossistema forte para projetos robustos e pipelines profissionais.
+
+DESAFIOS:
+
+É bem mais código-heavy (especialmente C++) do que sua preferência atual por dados.
+Ramp-up pode ser mais longo até ficar confortável com arquitetura, performance e debugging em engine.
+
+📈 MERCADO:
+Oportunidades variam muito conforme a presença de estúdios na região e o tipo de projeto. Para Unreal, costuma haver demanda em jogos e também em áreas próximas (simulação/3D), mas varia por região e portfólio.
+
+Qual dessas carreiras te chamou mais atenção?
+(1) Game Analytics / Dados para Jogos
+(2) Machine Learning / IA com LLMs
+(3) Programação de IA/Gameplay na Unreal

@@ -1,0 +1,83 @@
+Claro! Aqui vai uma lista bem curada de cursos/treinamentos de Unreal Engine + IA, separada por trilhas (IA “clássica” de NPCs, ML/RL dentro da UE, e LLMs/conversação), com links e uma sugestão de ordem.
+
+Dica rápida: para IA/Gameplay na Unreal, o “ouro” é dominar Behavior Trees + Blackboard + AI Perception + NavMesh/EQS primeiro; depois você expande para ML (Learning Agents) e/ou LLMs.
+
+
+✅ Trilha A — IA “Clássica” em Unreal (NPCs de jogo: BT/Blackboard/Perception/EQS)
+1) Documentação + guia prático (Epic / Oficial)
+
+Behavior Tree Quick Start Guide (UE 5.x) — guia oficial para montar AI que patrulha e persegue, cobrindo Controllers, Blackboard, BT, Tasks/Decorators/Services. [dev.epicgames.com]
+Behavior Trees in Unreal Engine (documentação) — visão geral e referência do sistema de Behavior Trees + relação com Blackboard. [dev.epicgames.com]
+AI Perception (documentação) — explica o componente de percepção, estímulos e como alimentar decisões no BT/Blueprints. [dev.epicgames.com]
+
+2) Cursos/tutoriais (Epic Developer Community)
+
+Introduction to AI in Unreal Engine (tutorial da comunidade Epic) — introdução aos conceitos e caminhos (Blueprints/BT/C++), bom para consolidar fundamentos. [dev.epicgames.com]
+Fundamentals of Behaviour Trees in UE 5.5 (community tutorial) — fundamentos, fluxo de execução e uso de Blackboard para decisão. [forums.unr...engine.com]
+How to Make a Behavior Tree in Unreal Engine 5 | Complete AI Tutorial (community tutorial) — passo a passo com BT + Perception + debug e refinamento. [forums.unr...engine.com]
+
+3) Vídeo oficial (Epic/Unreal Engine no YouTube)
+
+Unreal Engine AI with Behavior Trees (Paulo Souza) — aborda Gameplay Framework + BT + Blackboard + AI Perception + EQS + debugging. [youtube.com]
+
+
+💰 Trilha B — Cursos completos (pagos) focados em IA na Unreal
+Udemy (Blueprints e/ou C++)
+
+Building Perceptive AI in Unreal Engine — foco em AI Perception + Behavior Trees + EQS via Blueprints. [udemy.com]
+The Ultimate C++ Unreal Engine 5 & AI Game Dev Course — gameplay + IA com AIController/BT/Blackboard, integrando C++ e sistemas de jogo. [udemy.com]
+
+Coursera
+
+Unreal Engine Advanced Gameplay & AI Mastery (Specialization) — especialização com módulos envolvendo gameplay avançado e IA (inclui Behavior Trees). [coursera.org]
+
+Pluralsight
+
+Creating AI with Behavior States in Unreal Engine 4 — abordagem avançada de “states/awareness/perception” (base UE4, mas conceitos ajudam muito). [pluralsight.com]
+
+GameDev.tv (forte para base de C++/Unreal)
+
+UE5 C++ Developer (GameDev.tv) — curso C++ + Unreal com prática de “programming AI” e framework. [gamedev.tv]
+
+
+🧠 Trilha C — Machine Learning / Reinforcement Learning dentro da Unreal (Learning Agents)
+Se você quer ir além de BT e experimentar NPCs treinados com RL/Imitation Learning:
+Oficial (Epic)
+
+Learning Agents (UE 5.5) — curso Epic Developer Community — apresenta o plugin, RL/IL, PPO/Behavior Cloning e fluxo de treino. [dev.epicgames.com]
+Learning Agents Intro (UE 5.4) — curso Epic Developer Community — versão 5.4 do curso (útil se você estiver nessa versão). [dev.epicgames.com]
+
+Complemento (Hugging Face)
+
+An Introduction to Unreal Learning Agents (Hugging Face Deep RL Course) — contextualiza Learning Agents e aponta um caminho de estudo para RL aplicado na UE. [huggingface.co]
+
+Tutoriais em vídeo (prática)
+
+Unreal Engine 5.3: Machine Learning Tutorial (Learning Agents) — tutorial prático treinando agente (dirigir) com o plugin. [youtube.com]
+
+
+💬 Trilha D — LLMs / NPCs conversacionais na Unreal (IA de diálogo + integração)
+Se seu objetivo é NPC “conversador” (LLM + ações), aqui vão opções:
+Plugins + tutoriais
+
+AI NPCs com LLM local em UE5 (vídeo) — demonstra pipeline para rodar LLM local e integrar no projeto UE. [youtube.com]
+UnrealAiConnector (plugin no GitHub) — plugin para integrar LLM via API (HTTP/JSON) e acionar comandos no jogo. [github.com]
+
+MetaHuman + Conversational AI (pronto para usar)
+
+Convai — Quick Setup Guide (YouTube) — setup do plugin e integração com personagem/MetaHuman (voz, navegação e ações). [youtube.com]
+Convai blog: Integrate AI with MetaHuman in UE5 — passo a passo de instalação/ativação e fluxo de integração com MetaHuman. [convai.com]
+
+
+⭐ Sugestão de ordem (rápida) para seu caso (IA/Gameplay Unreal — transição)
+
+BT Quick Start + AI Perception docs (base sólida) [dev.epicgames.com], [dev.epicgames.com]
+Vídeo oficial “AI with Behavior Trees” (visão profissional + EQS + debug) [youtube.com]
+Um curso longo (Udemy ou Coursera) para prática guiada [udemy.com], [coursera.org]
+Learning Agents (opcional) para diferencial de ML dentro da UE [dev.epicgames.com]
+LLMs (opcional) se você quiser NPCs conversacionais/assistentes no jogo [github.com], [youtube.com]
+
+
+Pergunta rápida pra eu refinar a lista (e te indicar “top 5” certeiros):
+Você quer priorizar (A) IA clássica (BT/EQS/Perception), (B) C++ + IA, ou (C) ML (Learning Agents) / LLMs?
+E prefere cursos gratuitos, pagos, ou mix?
