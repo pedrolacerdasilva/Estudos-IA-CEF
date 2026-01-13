@@ -1,0 +1,152 @@
+Resumo analítico da vaga (com base nas suas respostas)
+1) Título e propósito do cargo
+Título: Estagiário(a) de Data Mining de RH
+Propósito central: posição voltada a aprendizado e desenvolvimento em:
+
+técnicas de data mining aplicadas ao RH (extração, organização e leitura de dados)
+criação e manutenção de planilhas em Excel
+distribuição de informações e interface/comunicação com outras áreas
+uso do SharePoint como repositório e organização de arquivos
+criação de painéis/dashboards em Power BI para acompanhamento e visualização
+
+
+Leitura analítica: a vaga está claramente desenhada como uma “ponte” entre dados → organização → comunicação → visualização, com foco em maturidade analítica e operação do RH via ferramentas.
+
+
+2) Senioridade esperada e justificativa
+Senioridade: Estagiário(a) iniciante
+Justificativa:
+
+maior facilidade de moldar rotinas e missões de acordo com a estrutura e cultura da empresa
+menor risco de trazer “vícios” de processos anteriores
+
+
+Leitura analítica: faz sentido para um ambiente em que você quer formar base, criar padrão de trabalho e crescer a pessoa “do jeito da casa”. O custo disso é depender mais de mentoria e de um onboarding bem amarrado.
+
+
+3) Stack (tecnologias, frameworks e práticas essenciais)
+Ferramentas/tecnologias citadas como essenciais:
+
+Crystal Dynamics
+Excel
+SharePoint
+Power BI (sem exigência de experiência prévia; foco em vontade de aprender)
+
+Práticas/competências práticas relevantes:
+
+Português claro (comunicação escrita e falada)
+Resiliência
+Vontade de aprender (explicitamente como requisito comportamental)
+
+
+Leitura analítica: o “núcleo técnico” é Excel + SharePoint + Power BI, com Crystal Dynamics como fonte/sistema importante. O diferencial da vaga é que a régua técnica inicial é menos “experiência” e mais capacidade de aprender rápido + comunicar bem.
+
+
+4) Soft skills (comportamentos/atitudes valorizados)
+Mais valorizados no dia a dia:
+
+Vontade de aprender
+Comunicabilidade
+Facilidade em aprender software (aprendizado rápido / adaptabilidade)
+Responsabilidade
+
+
+Leitura analítica: o perfil ideal é alguém “aprendiz-acionável”: pega tarefa, aprende ferramenta, registra o que fez, e comunica progresso/risco sem precisar ser “arrastado”.
+
+
+Síntese: o que essa vaga “pede” de verdade
+Se eu condensar o que você descreveu, a vaga busca alguém que:
+
+aprenda ferramentas (Excel/SharePoint/Power BI/Crystal) com rapidez,
+organize dados e arquivos com método,
+entregue informação (clara e útil) para outras áreas,
+assuma responsabilidade mesmo sendo iniciante.
+
+
+Pontos fortes do desenho da vaga
+
+Coerência entre propósito e stack: ferramentas alinhadas ao dia a dia real do RH analítico.
+Critério de entrada realista: “vontade de aprender” como requisito reduz fricção e amplia o funil.
+Ênfase em comunicação: crítico para RH, onde dado sem narrativa geralmente não vira decisão.
+
+
+Pontos de atenção / riscos (para evitar frustração)
+
+
+“Data mining” pode soar mais avançado do que a rotina real
+
+Se as tarefas forem majoritariamente Excel/organização/BI, vale tratar “data mining” como mineração operacional (limpeza, consolidação, padronização, relatórios) e não como ciência de dados pesada.
+
+
+
+Crystal Dynamics pode virar gargalo
+
+Se for um sistema com curva de aprendizado, o estagiário iniciante pode travar sem um “guia”: prints, fluxos, dicionário de campos, exemplos de extração.
+
+
+
+Sem experiência exigida = onboarding obrigatório
+
+Para dar certo, precisa de trilha de aprendizado e “missões” bem definidas (curtas, com feedback).
+
+
+
+
+Critérios objetivos de avaliação (para entrevista/teste) — sem virar Job Description
+Abaixo vai uma forma analítica de medir aderência, sem “inventar JD”:
+A) Capacidade de aprender (principal)
+Sinais fortes:
+
+conta exemplos em que aprendeu ferramenta sozinho(a)
+faz perguntas boas (“qual o objetivo do dashboard?”, “quem usa?”, “com que frequência?”)
+registra/organiza conhecimento (anotações, checklists)
+
+Perguntas úteis (exemplos de avaliação):
+
+“Me conte uma situação em que você aprendeu um software novo do zero. Como foi seu método?”
+“Quando você trava num sistema, qual seu plano de ação?”
+
+B) Organização e qualidade de dados (Excel/rotina)
+Sinais fortes:
+
+entende noções de padronização (datas, nomes, chaves)
+tem cuidado com erros, checagens e rastreabilidade
+
+Mini-desafio (bem simples):
+
+dar uma planilha “bagunçada” e pedir: limpar, padronizar, e produzir um resumo (tabela dinâmica ou métricas básicas).
+
+C) Comunicação e distribuição de informação (Português claro)
+Sinais fortes:
+
+explica o raciocínio de forma objetiva
+adapta linguagem ao público (RH, gestão, operação)
+
+Teste rápido:
+
+“Explique em 1 minuto o que seu painel mostraria para alguém que não é da área.”
+
+D) Responsabilidade e resiliência
+Sinais fortes:
+
+dá visibilidade de status, prazo e risco
+assume erro e mostra correção
+
+Pergunta útil:
+
+“Me conte uma situação em que você errou algo e como resolveu.”
+
+
+Recomendações de estrutura (processo) — para reduzir risco
+Sem desenhar JD, apenas uma sugestão de fluxo prático:
+
+Triagem curta (15 min): comunicação + motivação + disponibilidade.
+Teste prático leve (30–60 min): Excel (limpeza + resumo) e interpretação.
+Entrevista técnica aplicada (30 min): lógica de dados + como faria um dashboard no Power BI.
+Entrevista comportamental (20 min): responsabilidade + resiliência + aprendizado.
+
+
+Fechamento: “definição operacional” em uma frase
+Estagiário iniciante para apoiar RH com organização/mineração de dados, Excel, SharePoint e criação de visuais no Power BI, priorizando aprendizado rápido, comunicação clara e responsabilidade.
+
+Se você quiser, eu posso (em uma próxima rodada) te ajudar a transformar isso em um “roteiro de entrevista” com perguntas e critérios de pontuação (sem gerar job description), incluindo um mini-case de Excel/Power BI e o que considerar “bom” vs “alerta”.
